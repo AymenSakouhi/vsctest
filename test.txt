@@ -1,4 +1,4 @@
-My another one commit commit
+My another commit over here in commit feature commit
 
 
 and here we go with commit number 3.
